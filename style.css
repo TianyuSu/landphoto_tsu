@@ -3,7 +3,7 @@
 }
 
 body{
-	background-color: #000;
+	background-color: rgb(255, 255, 255);
 	color: var(--lightgrey);
 	font-size: 12px;
 	text-align: center;
