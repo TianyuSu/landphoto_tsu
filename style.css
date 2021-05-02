@@ -1,0 +1,35 @@
+:root{
+	--lightgrey: rgb(170, 170, 170);
+}
+
+body{
+	background-color: #000;
+	color: var(--lightgrey);
+	font-size: 12px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	overflow: hidden;
+	width: 100%;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+
+a{
+	text-decoration: none;
+	color: #ffffff;
+}
+a:hover{
+	color: gray;
+	text-decoration: underline;
+}
+
+.footer {
+	margin-top: 50px;
+	width: 100%;
+	text-align: center;
+}
+.classInfo{
+	padding-top: 10px;
+	font-weight: 200;
+}
